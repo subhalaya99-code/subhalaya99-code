@@ -33,8 +33,11 @@ I am a **Technical Business Analyst** passionate about bridging the gap between 
 * **Methodologies:** Agile, Scrum, Kanban, SDLC, Waterfall, Design Thinking.
 
 ### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=jira,confluence,powerbi,azure,visio,odoo,sap,lucidchart,microsoft) 
-* **Management & Design:** JIRA, Confluence, Azure DevOps, Lucidchart, Miro, SharePoint, MS Visio.
+## Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=jira,confluence,azure,visio,lucidchart,miro,microsoft,google) 
+* **Management & Planning:** JIRA, Confluence, Azure DevOps, Microsoft 365.
+* **Diagramming & Design:** Draw.io (diagrams.net), MS Visio, Lucidchart, Miro.
+* **Documentation & Collaboration:** Google Docs, SharePoint, Microsoft 365 Suite.
 * **ERP/CRM:** Odoo ERP, SAP Analytics.
 
 ### Technical & Data
