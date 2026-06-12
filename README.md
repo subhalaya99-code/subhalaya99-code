@@ -24,8 +24,24 @@ I am a **Technical Business Analyst** passionate about bridging the gap between 
 
 ---
 
-## 📈 My Tech Stack
-![Skills](https://skillicons.dev/icons?i=odoo,mysql,postgresql,powerbi,git)
+
+## 🛠 My Tech Stack
+
+### Business & Functional
+* **Core BA:** Requirements Engineering (BRD/FRD/SRS), GAP Analysis, User Stories, Use Cases, Acceptance Criteria, AS-IS/TO-BE Analysis.
+* **Process:** BPMN 2.0, UML, Process Improvement, Change Management.
+* **Methodologies:** Agile, Scrum, Kanban, SDLC, Waterfall, Design Thinking.
+
+### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=jira,confluence,powerbi,azure,visio,odoo,sap,lucidchart,microsoft) 
+* **Management & Design:** JIRA, Confluence, Azure DevOps, Lucidchart, Miro, SharePoint, MS Visio.
+* **ERP/CRM:** Odoo ERP, SAP Analytics.
+
+### Technical & Data
+![Tech](https://skillicons.dev/icons?i=mysql,html,css,php,dotnet)
+* **Data:** SQL, Data Modelling, Azure Data Lake, KPI Reporting.
+* **Integration:** REST/SOAP APIs, JSON/XML, System Integration.
+* **Development:** ASP.NET Core, HTML/CSS, PHP.
 
 ---
 
