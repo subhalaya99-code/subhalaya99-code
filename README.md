@@ -41,7 +41,7 @@ I am a **Technical Business Analyst** passionate about bridging the gap between 
 * **ERP/CRM:** Odoo ERP, SAP Analytics.
 
 ### Technical & Data
-![Tech](https://skillicons.dev/icons?i=mysql,html,css,php,dotnet)
+![Tech](https://skillicons.dev/icons?i=mysql,html,css,dotnet)
 * **Data:** SQL, Data Modelling, Azure Data Lake, KPI Reporting.
 * **Integration:** REST/SOAP APIs, JSON/XML, System Integration.
 * **Development:** ASP.NET Core, HTML/CSS, PHP.
