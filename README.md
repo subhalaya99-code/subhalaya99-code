@@ -20,7 +20,7 @@ I am a **Technical Business Analyst** passionate about bridging the gap between 
 * **The Solution:** [How you used Odoo/BPMN to streamline it].
 * **The Impact:** [Quantifiable result, e.g., "Reduced manual data entry by 30%"].
 * **Tech Stack:** Odoo, SQL, BPMN.
-* *[Link to the project README in your portfolio]*
+
 
 ---
 
@@ -32,7 +32,6 @@ I am a **Technical Business Analyst** passionate about bridging the gap between 
 * **Process:** BPMN 2.0, UML, Process Improvement, Change Management.
 * **Methodologies:** Agile, Scrum, Kanban, SDLC, Waterfall, Design Thinking.
 
-### Tools & Platforms
 ## Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=jira,confluence,azure,visio,lucidchart,miro,microsoft,google) 
 * **Management & Planning:** JIRA, Confluence, Azure DevOps, Microsoft 365.
