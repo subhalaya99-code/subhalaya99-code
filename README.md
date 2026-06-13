@@ -12,15 +12,6 @@ I am a **Technical Business Analyst** passionate about bridging the gap between 
 
 ---
 
-## 💼 Featured Case Studies
-*Documentation of how I turn business needs into technical reality.*
-
-### 1. [Project Name/Process Optimization]
-* **The Challenge:** [Briefly describe a messy business process or inefficient workflow].
-* **The Solution:** [How you used Odoo/BPMN to streamline it].
-* **The Impact:** [Quantifiable result, e.g., "Reduced manual data entry by 30%"].
-* **Tech Stack:** Odoo, SQL, BPMN.
-
 
 ---
 
