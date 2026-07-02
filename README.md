@@ -37,7 +37,7 @@ I am a **Technical Business Analyst** passionate about bridging the gap between 
 * **Development:** ASP.NET Core, HTML/CSS, PHP.
 
 ### 📂 My Work
-- 🌐 [View my Professional Portfolio](https://app.notion.com/p/Subhalaya-C-Technical-Business-Analyst-Portfolio-384b92c513238016ba99fde9d06cf441?source=copy_link))
+- 🌐 [View my Professional Portfolio](https://app.notion.com/p/Subhalaya-C-Technical-Business-Analyst-Portfolio-384b92c513238016ba99fde9d06cf441) )
 
 ## 📬 Let's Connect
 * 📧 [subhalaya99@gmail.com](mailto:subhalaya99@gmail.com)
